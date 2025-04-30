@@ -1,5 +1,18 @@
 [
     {
+        "name": "new toy from postman3",
+        "price": 59,
+        "labels": [
+            "Box game",
+            "baby",
+            "www"
+        ],
+        "_id": "pIbvl",
+        "createdAt": 1746013065054,
+        "inStock": false,
+        "updatedAt": 1746013113044
+    },
+    {
         "_id": "QRjZsL",
         "name": "Box Game 5",
         "price": 29,

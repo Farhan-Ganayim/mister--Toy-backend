@@ -42,6 +42,25 @@ app.post('/api/toy', (req, res) => {
         })
 })
 
+//EDIT
+
+app.put('/api/toy/:toyId', (req, res) => {
+    const { name, price, _id, labels, inStock } = req.body
+    const toyToSave = {
+        _id,
+        name,
+        price: +price,
+        labels,
+        inStock
+    }
+    toyService.save(toyToSave)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error(`Cannot update toy ${toyToSave._id}`, err)
+            res.status(400).send('Cannot update toy')
+        })
+})
+
 app.delete('/api/toy/:toyId', (req, res) => {
 
     const { toyId } = req.params

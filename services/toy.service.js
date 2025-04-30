@@ -31,7 +31,8 @@ function save(toy) {
         // UPDATE
         const toyIdx = toys.findIndex(toy => toy._id === toy._id)
         if (toyIdx === -1) return Promise.reject(`Toy id ${toy._id} not found`)
-        toys[idx] = { ...toys[idx], ...toy }
+        toy.updatedAt = Date.now()
+        toys[toyIdx] = { ...toys[toyIdx], ...toy }
     } else {
         // ADD
         toy._id = utilService.makeId()
