@@ -7,11 +7,6 @@ import { toyService } from './services/toy.service.js'
 const app = express()
 app.use(express.json())
 
-
-app.get('/', (req, res) => {
-    res.send('hello farhan!!!')
-})
-
 app.get('/api/toy', (req, res) => {
     toyService.query()
         .then(toys => res.send(toys))
@@ -19,7 +14,44 @@ app.get('/api/toy', (req, res) => {
             loggerService.error('Cannot load toys', err)
             res.status(400).send('Cannot load toys')
         })
+})
 
+app.get('/api/toy/:toyId', (req, res) => {
+    const { toyId } = req.params
+    toyService.getById(toyId)
+        .then(toy => res.send(toy))
+        .catch(err => {
+            loggerService.error('Cannot get toy', err)
+            res.status(400).send(err)
+        })
+})
+
+//ADD
+app.post('/api/toy', (req, res) => {
+    const toyToSave = {
+        name: req.body.name,
+        price: +req.body.price,
+        labels: req.body.labels,
+    }
+
+    toyService.save(toyToSave)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error('Cannot add toy', err)
+            res.status(400).send('Cannot add toy')
+        })
+})
+
+app.delete('/api/toy/:toyId', (req, res) => {
+
+    const { toyId } = req.params
+    console.log('Deleted: ', toyId)
+    toyService.remove(toyId)
+        .then(() => res.send('Toy removed'))
+        .catch(err => {
+            loggerService.error('Cannot remove toy', err)
+            res.status(400).send('Cannot remove toy')
+        })
 })
 
 

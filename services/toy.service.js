@@ -6,6 +6,9 @@ const toys = utilService.readJsonFile('data/toy.json')
 
 export const toyService = {
     query,
+    getById,
+    remove,
+    save
 }
 
 
@@ -15,5 +18,48 @@ function query() {
             // if (filterBy)
             return toys
         })
-
 }
+
+function getById(toyId) {
+    const toy = toys.find(toy => toy._id === toyId)
+    if (!toy) return Promise.reject('Cannot find toy: ' + toyId)
+    return Promise.resolve(toy)
+}
+
+function save(toy) {
+    if (toy._id) {
+        // UPDATE
+        const toyIdx = toys.findIndex(toy => toy._id === toy._id)
+        if (toyIdx === -1) return Promise.reject(`Toy id ${toy._id} not found`)
+        toys[idx] = { ...toys[idx], ...toy }
+    } else {
+        // ADD
+        toy._id = utilService.makeId()
+        toy.createdAt = Date.now()
+        toy.inStock = true
+        toys.unshift(toy)
+
+    }
+
+    return _saveToysToFile()
+        .then(() => toy)
+}
+
+function remove(toyId) {
+    const toyIdx = toys.findIndex(toy => toy._id === toyId)
+    if (toyIdx === -1) return Promise.reject('Cannot remove toy: ' + toyId)
+
+    toys.splice(toyIdx, 1)
+    return _saveToysToFile().then(() => toyId)
+}
+
+function _saveToysToFile() {
+    return new Promise((resolve, reject) => {
+        const data = JSON.stringify(toys, null, 4)
+        fs.writeFile('data/toy.json', data, (err) => {
+            if (err) return reject(err)
+            resolve()
+        })
+    })
+}
+
