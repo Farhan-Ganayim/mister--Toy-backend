@@ -3,7 +3,10 @@ import { utilService } from './util.service.js'
 
 
 const toys = utilService.readJsonFile('data/toy.json')
-
+const labels = [
+    'On wheels', 'Box game', 'Art', 'Baby',
+    'Doll', 'Puzzle', 'Outdoor', 'Battery Powered'
+]
 export const toyService = {
     query,
     getById,

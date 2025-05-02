@@ -1,4 +1,6 @@
 import express from 'express'
+import cors from 'cors'
+import cookieParser from 'cookie-parser'
 import { loggerService } from './services/logger.service.js'
 import { toyService } from './services/toy.service.js'
 
@@ -6,6 +8,25 @@ import { toyService } from './services/toy.service.js'
 
 const app = express()
 app.use(express.json())
+app.use(cookieParser())
+app.set('query parser', 'extended')
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('public'))
+} else {
+    const corsOptions = {
+        origin: [
+            'http://127.0.0.1:3000',
+            'http://localhost:3000',
+            'http://localhost:5173',
+            'http://127.0.0.1:5173',
+            'http://localhost:5174',
+            'http://127.0.0.1:5174',
+        ],
+        credentials: true,
+    }
+    app.use(cors(corsOptions))
+}
 
 app.get('/api/toy', (req, res) => {
     toyService.query()

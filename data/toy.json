@@ -1,7 +1,31 @@
 [
     {
+        "name": "new toy from postman",
+        "price": 45,
+        "labels": [
+            "Box game",
+            "baby",
+            "wwwwwww"
+        ],
+        "_id": "X82PQ",
+        "createdAt": 1746020379839,
+        "inStock": true
+    },
+    {
+        "name": "new toy from postman",
+        "price": 45,
+        "labels": [
+            "Box game",
+            "baby",
+            "wwwwwww"
+        ],
+        "_id": "NocpD",
+        "createdAt": 1746016738040,
+        "inStock": true
+    },
+    {
         "name": "new toy from postman3",
-        "price": 59,
+        "price": 91,
         "labels": [
             "Box game",
             "baby",
