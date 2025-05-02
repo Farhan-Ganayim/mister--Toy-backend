@@ -15,10 +15,21 @@ export const toyService = {
 }
 
 
-function query() {
+function query(filterBy = {}) {
     return Promise.resolve(toys)
         .then(toys => {
-            // if (filterBy)
+            if (filterBy.txt) {
+                const regExp = new RegExp(filterBy.txt, 'i')
+                toys = toys.filter(toy => regExp.test(toy.name))
+            }
+            if (filterBy.inStock !== undefined) {
+                toys = toys.filter(toy => toy.inStock === filterBy.inStock)
+            }
+            if (filterBy.labels?.length) {
+                toys = toys.filter(toy =>
+                    filterBy.labels.every(label => toy.labels.includes(label))
+                )
+            }
             return toys
         })
 }

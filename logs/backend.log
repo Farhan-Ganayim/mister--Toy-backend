@@ -24,3 +24,63 @@
 30.4.2025, 18:03:26 - INFO - Server listening on port http://127.0.0.1:3030/
 1.5.2025, 17:42:28 - INFO - Server listening on port http://127.0.0.1:3030/
 2.5.2025, 16:15:47 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:03:26 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:17:17 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:17:24 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:24 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:24 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:27 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:27 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:27 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:30 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:30 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:30 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:32 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:33 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:34 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:46 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:46 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:17:46 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+2.5.2025, 17:18:23 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:18:26 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:18:29 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:29 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:29 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:18:31 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:20:24 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:20:24 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:20:24 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'name')
+2.5.2025, 17:22:35 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:22:39 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:22:39 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:22:40 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:22:42 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:22:42 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:22:42 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'txt')
+2.5.2025, 17:23:25 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:25:34 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:25:54 - INFO - Server listening on port http://127.0.0.1:3030/
+2.5.2025, 17:35:47 - INFO - Server listening on port http://127.0.0.1:3030/
