@@ -12,6 +12,7 @@ app.use(cookieParser())
 app.set('query parser', 'extended')
 
 if (process.env.NODE_ENV === 'production') {
+    console.log("🚀 ~ process.env.NODE_ENV:", process.env.NODE_ENV)
     app.use(express.static('public'))
 } else {
     const corsOptions = {
@@ -27,6 +28,7 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
 }
+app.use(express.static('public'))
 
 app.get('/api/toy', (req, res) => {
     const {filterBy} = req.query
