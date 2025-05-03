@@ -16,22 +16,24 @@ export const toyService = {
 
 
 function query(filterBy = {}) {
-    return Promise.resolve(toys)
-        .then(toys => {
-            if (filterBy.txt) {
-                const regExp = new RegExp(filterBy.txt, 'i')
-                toys = toys.filter(toy => regExp.test(toy.name))
-            }
-            if (filterBy.inStock !== undefined) {
-                toys = toys.filter(toy => toy.inStock === filterBy.inStock)
-            }
-            if (filterBy.labels?.length) {
-                toys = toys.filter(toy =>
-                    filterBy.labels.every(label => toy.labels.includes(label))
-                )
-            }
-            return toys
-        })
+    console.log(filterBy)
+    let filteredToys = toys
+    // return Promise.resolve(toys)
+    // .then(toys => {
+    if (filterBy.txt) {
+        const regExp = new RegExp(filterBy.txt, 'i')
+        filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
+    }
+    if (filterBy.inStock !== undefined) {
+        filteredToys = filteredToys.filter(toy => toy.inStock === JSON.parse(filterBy.inStock))
+    }
+    if (filterBy.labels?.length) {
+        filteredToys = filteredToys.filter(toy =>
+            filterBy.labels.every(label => toy.labels.includes(label))
+        )
+    }
+    return  Promise.resolve(filteredToys)
+    // })
 }
 
 function getById(toyId) {

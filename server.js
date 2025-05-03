@@ -29,7 +29,8 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 app.get('/api/toy', (req, res) => {
-    toyService.query()
+    const {filterBy} = req.query
+    toyService.query(filterBy)
         .then(toys => res.send(toys))
         .catch(err => {
             loggerService.error('Cannot load toys', err)
