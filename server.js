@@ -67,14 +67,23 @@ app.post('/api/toy', (req, res) => {
 //EDIT
 
 app.put('/api/toy/:toyId', (req, res) => {
-    const { name, price, _id, labels, inStock } = req.body
+    // const { name, price, _id, labels, inStock } = req.body
+    // const toyToSave = {
+    //     _id,
+    //     name,
+    //     price: +price,
+    //     labels,
+    //     inStock
+    // }
     const toyToSave = {
-        _id,
-        name,
-        price: +price,
-        labels,
-        inStock
+        _id    : req.body._id,     
+        name   : req.body.name,
+        price  : +req.body.price,
+        labels : req.body.labels || [],
+        inStock: req.body.inStock
     }
+    console.log('TTTTT',toyToSave)
+    
     toyService.save(toyToSave)
         .then(savedToy => res.send(savedToy))
         .catch(err => {

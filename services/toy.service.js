@@ -45,7 +45,7 @@ function getById(toyId) {
 function save(toy) {
     if (toy._id) {
         // UPDATE
-        const toyIdx = toys.findIndex(toy => toy._id === toy._id)
+        const toyIdx = toys.findIndex(currToy => currToy._id === toy._id)
         if (toyIdx === -1) return Promise.reject(`Toy id ${toy._id} not found`)
         toy.updatedAt = Date.now()
         toys[toyIdx] = { ...toys[toyIdx], ...toy }
