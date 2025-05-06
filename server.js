@@ -31,7 +31,16 @@ if (process.env.NODE_ENV === 'production') {
 app.use(express.static('public'))
 
 app.get('/api/toy', (req, res) => {
-    const {filterBy} = req.query
+    // const {filterBy} = req.query
+    // console.log('RRRRR', req.query)
+    const { txt, inStock, labels, pageIdx } = req.query
+
+    const filterBy = {
+        txt: txt || '',
+        inStock: inStock || undefined,
+        labels: labels || [],
+        pageIdx: +pageIdx || 0,
+    }
     toyService.query(filterBy)
         .then(toys => res.send(toys))
         .catch(err => {
@@ -78,14 +87,14 @@ app.put('/api/toy/:toyId', (req, res) => {
     //     inStock
     // }
     const toyToSave = {
-        _id    : req.body._id,     
-        name   : req.body.name,
-        price  : +req.body.price,
-        labels : req.body.labels || [],
+        _id: req.body._id,
+        name: req.body.name,
+        price: +req.body.price,
+        labels: req.body.labels || [],
         inStock: req.body.inStock
     }
-    console.log('TTTTT',toyToSave)
-    
+    console.log('TTTTT', toyToSave)
+
     toyService.save(toyToSave)
         .then(savedToy => res.send(savedToy))
         .catch(err => {
