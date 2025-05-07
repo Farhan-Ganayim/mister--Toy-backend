@@ -31,15 +31,14 @@ if (process.env.NODE_ENV === 'production') {
 app.use(express.static('public'))
 
 app.get('/api/toy', (req, res) => {
-    // const {filterBy} = req.query
-    // console.log('RRRRR', req.query)
-    const { txt, inStock, labels, pageIdx } = req.query
+    const { txt, inStock, labels, pageIdx, sortBy } = req.query
 
     const filterBy = {
         txt: txt || '',
         inStock: inStock || undefined,
         labels: labels || [],
         pageIdx: +pageIdx || 0,
+        sortBy: sortBy || { type: '', sortDir: 1 }
     }
     toyService.query(filterBy)
         .then(toys => res.send(toys))

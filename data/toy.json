@@ -1,27 +1,5 @@
 [
     {
-        "name": "dsfsdf",
-        "price": 22,
-        "labels": [
-            "Art",
-            "Baby"
-        ],
-        "_id": "aAskr",
-        "createdAt": 1746612359704,
-        "inStock": true
-    },
-    {
-        "name": "sds",
-        "price": 3445,
-        "labels": [
-            "Doll",
-            "Art"
-        ],
-        "_id": "KTl8e",
-        "createdAt": 1746612343710,
-        "inStock": true
-    },
-    {
         "name": "Nasreen",
         "price": 11,
         "labels": [
