@@ -32,6 +32,18 @@ function query(filterBy = {}) {
             filterBy.labels.every(label => toy.labels.includes(label))
         )
     }
+    const sortBy = filterBy.sortBy
+
+	if (sortBy.type) {
+		filteredToys.sort((toy1, toy2) => {
+			const sortDir = +sortBy.sortDir
+			if (sortBy.type === 'name') {
+				return toy1.name.localeCompare(toy2.name) * sortDir
+			} else if (sortBy.type === 'price' || sortBy.type === 'createdAt') {
+				return (toy1[sortBy.type] - toy2[sortBy.type]) * sortDir
+			}
+		})
+	}
     return  Promise.resolve(filteredToys)
     // })
 }
