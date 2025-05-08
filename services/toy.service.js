@@ -17,7 +17,7 @@ export const toyService = {
 
 function query(filterBy = {}) {
     console.log(filterBy)
-    let filteredToys = toys
+    let filteredToys = [...toys]
     // return Promise.resolve(toys)
     // .then(toys => {
     if (filterBy.txt) {
