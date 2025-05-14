@@ -5,7 +5,7 @@ import { loggerService } from '../../servicesDB/logger.service.js'
 export const toyRoutes = express.Router()
 
 toyRoutes.get('/', toyController.getToys)
-toyRoutes.get('/:id', toyController.getToyById)
+toyRoutes.get('/:toyId', toyController.getToyById)
+toyRoutes.delete('/:toyId', toyController.removeToy)
+toyRoutes.put('/:toyId', toyController.updateToy)
 // toyRoutes.post('/', toyController.saveToy)
-// toyRoutes.put('/:id', toyController.saveToy)
-// toyRoutes.delete('/:id', toyController.deleteToy)

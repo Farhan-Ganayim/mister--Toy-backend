@@ -4,9 +4,6 @@ import cors from 'cors'
 import path from 'path'
 import cookieParser from 'cookie-parser'
 import { loggerService } from './services/logger.service.js'
-import { toyService } from './services/toy.service.js'
-
-
 
 const app = express()
 app.use(express.json())

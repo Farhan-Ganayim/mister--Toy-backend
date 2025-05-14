@@ -1,9 +1,12 @@
-import { toyService } from "./toy.service"
-import { loggerService } from "../../services/logger.service"
+import { toyService } from "./toy.service.js"
+import { loggerService } from "../../servicesDB/logger.service.js"
 
 export const toyController = {
     getToys,
     getToyById,
+    removeToy,
+    updateToy,
+    // addToy,
 }
 
 async function getToys(req, res) {
@@ -25,7 +28,8 @@ async function getToys(req, res) {
 
     }
 }
-export async function getToyById(req, res) {
+
+async function getToyById(req, res) {
     try {
         const { toyId } = req.params
         const toy = await toyService.getById(toyId)
@@ -33,5 +37,29 @@ export async function getToyById(req, res) {
     } catch (error) {
         loggerService.error('Cannot get toy', error)
         res.status(500).send(error)
+    }
+}
+
+async function removeToy(req, res) {
+    try {
+        const { toyId } = req.params
+        await toyService.remove(toyId)
+        res.send('Toy removed')
+    } catch (err) {
+        loggerService.error(`Failed to remove toy ${toyId}`, err)
+        res.status(500).send('Failed to remove toy', err)
+    }
+}
+
+async function updateToy(req, res) {
+    const toy = req.body
+    // console.log('Toy id ',toy,_id)
+    // console.log('Params',req.params)
+    try {
+        const updatedToy = await toyService.update(toy)
+        res.send(updatedToy)
+    } catch (err) {
+        loggerService.error('Failed to update toy', err)
+        res.status(500).send('Failed to update toy')
     }
 }
