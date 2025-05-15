@@ -901,3 +901,58 @@
 14.5.2025, 17:28:31 - DEBUG - Criteria | {}
 14.5.2025, 17:28:31 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
 14.5.2025, 17:28:31 - DEBUG - Criteria | {}
+15.5.2025, 12:21:41 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:21:49 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:21:49 - DEBUG - Criteria | {}
+15.5.2025, 12:21:49 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:21:49 - DEBUG - Criteria | {}
+15.5.2025, 12:22:00 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:22:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:22:03 - DEBUG - Criteria | {}
+15.5.2025, 12:22:03 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:03 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:03 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:03 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:22:03 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:04 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:22:03 - DEBUG - Criteria | {}
+15.5.2025, 12:22:04 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:26:25 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:30:59 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:31:42 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:31:52 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:31:52 - DEBUG - Criteria | {}
+15.5.2025, 12:31:52 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:31:52 - DEBUG - Criteria | {}
+15.5.2025, 12:31:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:31:52 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+15.5.2025, 12:32:22 - INFO - Server listening on port http://127.0.0.1:3030/
+15.5.2025, 12:32:26 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:26 - DEBUG - Criteria | {}
+15.5.2025, 12:32:26 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:26 - DEBUG - Criteria | {}
+15.5.2025, 12:32:35 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:35 - DEBUG - Criteria | {}
+15.5.2025, 12:32:35 - DEBUG - Criteria | {}
+15.5.2025, 12:32:35 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:52 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:52 - DEBUG - Criteria | {}
+15.5.2025, 12:32:52 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:52 - DEBUG - Criteria | {}
+15.5.2025, 12:32:57 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:57 - DEBUG - Criteria | {}
+15.5.2025, 12:32:57 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:32:57 - DEBUG - Criteria | {}
+15.5.2025, 12:33:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:33:03 - DEBUG - Criteria | {}
+15.5.2025, 12:33:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+15.5.2025, 12:33:03 - DEBUG - Criteria | {}
+15.5.2025, 12:34:37 - INFO - Server listening on port http://127.0.0.1:3030/

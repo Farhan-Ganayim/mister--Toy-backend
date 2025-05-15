@@ -6,7 +6,7 @@ export const toyController = {
     getToyById,
     removeToy,
     updateToy,
-    // addToy,
+    addToy,
 }
 
 async function getToys(req, res) {
@@ -48,6 +48,17 @@ async function removeToy(req, res) {
     } catch (err) {
         loggerService.error(`Failed to remove toy ${toyId}`, err)
         res.status(500).send('Failed to remove toy', err)
+    }
+}
+
+async function addToy(req, res) {
+    const toy = req.body
+    try {
+        const savedToy = await toyService.add(toy)
+        res.send(savedToy)
+    } catch (err) {
+        loggerService.error('Failed to add toy', err)
+        res.status(500).send('Failed to add toy')
     }
 }
 
