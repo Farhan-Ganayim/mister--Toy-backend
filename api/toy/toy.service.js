@@ -56,7 +56,7 @@ async function add(toy) {
         await collection.insertOne(toy)
         return toy
     } catch (error) {
-        loggerService.error('cannot insert toy', error)
+        loggerService.error('toyService: Cannot add toy', error)
         throw error
     }
 }
@@ -78,7 +78,7 @@ async function update(toy) {
         )
         return toy
     } catch (err) {
-        loggerService.error(`toyService : cannot update toy ${toy._id}`, err)
+        loggerService.error(`toyService : Cannot update toy ${toy._id}`, err)
         throw err
     }
 }
