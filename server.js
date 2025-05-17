@@ -28,9 +28,12 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
 }
 app.use(express.static('public'))
+
 import { toyRoutes } from './api/toy/toy.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
 
 app.use('/api/toy', toyRoutes)
+app.use('/api/user', userRoutes)
 
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
