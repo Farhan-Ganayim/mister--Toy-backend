@@ -1121,3 +1121,17 @@
 17.5.2025, 21:10:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
 17.5.2025, 21:10:34 - INFO - Req was made | /
 17.5.2025, 21:10:34 - DEBUG - Criteria | {}
+17.5.2025, 21:15:22 - INFO - Server listening on port http://127.0.0.1:3030/
+17.5.2025, 21:15:22 - INFO - Server listening on port http://127.0.0.1:3030/
+17.5.2025, 21:15:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:27 - DEBUG - Criteria | {}
+17.5.2025, 21:15:27 - DEBUG - Criteria | {}
+17.5.2025, 21:15:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:34 - DEBUG - Criteria | {}
+17.5.2025, 21:15:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:34 - DEBUG - Criteria | {}
+17.5.2025, 21:15:40 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:40 - DEBUG - Criteria | {}
+17.5.2025, 21:15:40 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+17.5.2025, 21:15:40 - DEBUG - Criteria | {}
