@@ -6,17 +6,17 @@ import { requireAdmin, requireAuth } from '../../middlewares/requireAuth.middlew
 
 export const toyRoutes = express.Router()
 
-// toyRoutes.get('/', log, toyController.getToys)
-// toyRoutes.get('/:toyId', toyController.getToyById)
-// toyRoutes.delete('/:toyId', requireAuth, requireAdmin, toyController.removeToy)
-// toyRoutes.put('/:toyId', requireAuth, requireAdmin, toyController.updateToy)
-// toyRoutes.post('/', requireAdmin, requireAdmin, toyController.addToy)
-
-toyRoutes.get('/', toyController.getToys)
+toyRoutes.get('/', log, toyController.getToys)
 toyRoutes.get('/:toyId', toyController.getToyById)
-toyRoutes.delete('/:toyId', toyController.removeToy)
-toyRoutes.put('/:toyId', toyController.updateToy)
-toyRoutes.post('/', toyController.addToy)
+toyRoutes.delete('/:toyId', requireAuth, requireAdmin, toyController.removeToy)
+toyRoutes.put('/:toyId', requireAuth, requireAdmin, toyController.updateToy)
+toyRoutes.post('/', requireAdmin, requireAdmin, toyController.addToy)
+
+// toyRoutes.get('/', toyController.getToys)
+// toyRoutes.get('/:toyId', toyController.getToyById)
+// toyRoutes.delete('/:toyId', toyController.removeToy)
+// toyRoutes.put('/:toyId', toyController.updateToy)
+// toyRoutes.post('/', toyController.addToy)
 
 
 // toyRoutes.post('/:toyId/msg', requireAuth, addToyMsg)
