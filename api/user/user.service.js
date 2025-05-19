@@ -1,7 +1,5 @@
 import { dbService } from "../../servicesDB/db.service.js"
 import { loggerService } from "../../servicesDB/logger.service.js"
-
-
 import { ObjectId } from "mongodb"
 
 export const userService = {
@@ -11,7 +9,6 @@ export const userService = {
     remove,
     update,
     add,
-
 }
 
 async function query(filterBy = {}) {
@@ -48,7 +45,8 @@ async function getById(userId) {
 async function getByUsername(username) {
     try {
         const collection = await dbService.getCollection('user')
-        return await collection.findOne({ username })
+        const user = await collection.findOne({ username })
+        return user
     } catch (err) {
         loggerService.error(`userService: cannot find user ${username}`, err)
         throw err
@@ -87,7 +85,6 @@ export async function update(user) {
 export async function add(user) {
     try {
         const collection = await dbService.getCollection('user')
-
         const userToAdd = {
             username: user.username,
             password: user.password,
@@ -104,7 +101,6 @@ export async function add(user) {
         throw err
     }
 }
-
 
 function _buildCriteria(filterBy) {
     const criteria = {}

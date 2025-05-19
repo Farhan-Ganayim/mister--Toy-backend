@@ -16,7 +16,6 @@ async function login(username, password) {
     try {
         const user = await userService.getByUsername(username)
         if (!user) throw new Error('Invalid username or password')
-
         const match = await bcrypt.compare(password, user.password)
         if (!match) throw new Error('Invalid username or password')
 
@@ -28,7 +27,7 @@ async function login(username, password) {
     }
 }
 
-async function signup({ username, password, fullname }) {
+async function signup(username, password, fullname) {
     const saltRounds = 10
     loggerService.debug(
         `auth.service - signup with username: ${username}, fullname: ${fullname}`
@@ -39,7 +38,7 @@ async function signup({ username, password, fullname }) {
 
         const hash = await bcrypt.hash(password, saltRounds)
         const newUser = { username, password: hash, fullname, isAdmin: false }
-        return userService.add({ newUser })
+        return userService.add(newUser)
 
     } catch (err) {
         loggerService.error('authService: signup failed', err)

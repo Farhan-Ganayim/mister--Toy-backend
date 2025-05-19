@@ -18,8 +18,6 @@ export const toyService = {
 function query(filterBy = {}) {
     console.log(filterBy)
     let filteredToys = [...toys]
-    // return Promise.resolve(toys)
-    // .then(toys => {
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
         filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
@@ -34,18 +32,17 @@ function query(filterBy = {}) {
     }
     const sortBy = filterBy.sortBy
 
-	if (sortBy.type) {
-		filteredToys.sort((toy1, toy2) => {
-			const sortDir = +sortBy.sortDir
-			if (sortBy.type === 'name') {
-				return toy1.name.localeCompare(toy2.name) * sortDir
-			} else if (sortBy.type === 'price' || sortBy.type === 'createdAt') {
-				return (toy1[sortBy.type] - toy2[sortBy.type]) * sortDir
-			}
-		})
-	}
-    return  Promise.resolve(filteredToys)
-    // })
+    if (sortBy.type) {
+        filteredToys.sort((toy1, toy2) => {
+            const sortDir = +sortBy.sortDir
+            if (sortBy.type === 'name') {
+                return toy1.name.localeCompare(toy2.name) * sortDir
+            } else if (sortBy.type === 'price' || sortBy.type === 'createdAt') {
+                return (toy1[sortBy.type] - toy2[sortBy.type]) * sortDir
+            }
+        })
+    }
+    return Promise.resolve(filteredToys)
 }
 
 function getById(toyId) {
@@ -67,9 +64,7 @@ function save(toy) {
         toy.createdAt = Date.now()
         toy.inStock = true
         toys.unshift(toy)
-
     }
-
     return _saveToysToFile()
         .then(() => toy)
 }

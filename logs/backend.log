@@ -1195,3 +1195,735 @@
 18.5.2025, 16:47:37 - DEBUG - Criteria | {}
 18.5.2025, 16:48:50 - INFO - Server listening on port http://127.0.0.1:3030/
 18.5.2025, 16:48:53 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 16:52:25 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 16:52:46 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:26:59 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:27:14 - INFO - Req was made | /
+18.5.2025, 17:27:14 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:27:14 - DEBUG - Criteria | {}
+18.5.2025, 17:27:14 - INFO - Req was made | /
+18.5.2025, 17:27:14 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:27:14 - DEBUG - Criteria | {}
+18.5.2025, 17:37:50 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:38:07 - INFO - Req was made | /
+18.5.2025, 17:38:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:38:07 - DEBUG - Criteria | {}
+18.5.2025, 17:38:07 - INFO - Req was made | /
+18.5.2025, 17:38:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:38:07 - DEBUG - Criteria | {}
+18.5.2025, 17:44:37 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:44:37 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:45:21 - INFO - Req was made | /
+18.5.2025, 17:45:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:45:21 - DEBUG - Criteria | {}
+18.5.2025, 17:45:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:45:21 - INFO - Req was made | /
+18.5.2025, 17:45:21 - DEBUG - Criteria | {}
+18.5.2025, 17:45:41 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:45:41 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:45:41 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 17:45:55 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:45:55 - INFO - Req was made | /
+18.5.2025, 17:45:55 - DEBUG - Criteria | {}
+18.5.2025, 17:45:55 - INFO - Req was made | /
+18.5.2025, 17:45:55 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:45:55 - DEBUG - Criteria | {}
+18.5.2025, 17:46:05 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 17:46:05 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 17:46:26 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:46:26 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:46:26 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 17:49:07 - INFO - Req was made | /
+18.5.2025, 17:49:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:49:07 - DEBUG - Criteria | {}
+18.5.2025, 17:49:07 - INFO - Req was made | /
+18.5.2025, 17:49:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:49:07 - DEBUG - Criteria | {}
+18.5.2025, 17:49:11 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:49:11 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:49:11 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 17:51:50 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:52:14 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 17:52:14 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 17:52:37 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:52:37 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:52:37 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 17:57:18 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 17:57:32 - INFO - Req was made | /
+18.5.2025, 17:57:32 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:57:32 - DEBUG - Criteria | {}
+18.5.2025, 17:57:32 - INFO - Req was made | /
+18.5.2025, 17:57:32 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 17:57:32 - DEBUG - Criteria | {}
+18.5.2025, 17:57:48 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:57:48 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:57:48 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 17:58:00 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 17:58:00 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 17:58:00 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:18:03 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:18:03 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:18:15 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:18:15 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:18:15 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:18:23 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:18:23 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:18:23 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:18:28 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 18:18:28 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 18:18:36 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 18:18:36 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 18:18:50 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:24:26 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:24:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:24:38 - DEBUG - Criteria | {}
+18.5.2025, 18:24:38 - INFO - Req was made | /
+18.5.2025, 18:24:38 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - INFO - Req was made | /
+18.5.2025, 18:24:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:24:38 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - DEBUG - Criteria | {}
+18.5.2025, 18:24:38 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:24:38 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+18.5.2025, 18:27:03 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:27:09 - INFO - Req was made | /
+18.5.2025, 18:27:09 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:27:09 - DEBUG - Criteria | {}
+18.5.2025, 18:27:09 - INFO - Req was made | /
+18.5.2025, 18:27:09 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:27:09 - DEBUG - Criteria | {}
+18.5.2025, 18:27:24 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:27:24 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:27:24 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:29:26 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:29:27 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:29:34 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:29:34 - ERROR - authService: signup failed | Error: data and salt arguments required
+18.5.2025, 18:29:34 - ERROR - Signup failed | Error: data and salt arguments required
+18.5.2025, 18:29:38 - INFO - Req was made | /
+18.5.2025, 18:29:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:29:38 - DEBUG - Criteria | {}
+18.5.2025, 18:29:38 - INFO - Req was made | /
+18.5.2025, 18:29:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:29:38 - DEBUG - Criteria | {}
+18.5.2025, 18:29:49 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:29:49 - ERROR - authService: signup failed | Error: data and salt arguments required
+18.5.2025, 18:29:49 - ERROR - Signup failed | Error: data and salt arguments required
+18.5.2025, 18:31:14 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:31:15 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:35:56 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:35:56 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:35:56 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:41:49 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:41:50 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:42:05 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:42:05 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:42:05 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:49:54 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:49:55 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:55:50 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:56:00 - INFO - Req was made | /
+18.5.2025, 18:56:00 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:56:00 - DEBUG - Criteria | {}
+18.5.2025, 18:56:00 - INFO - Req was made | /
+18.5.2025, 18:56:00 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:56:00 - DEBUG - Criteria | {}
+18.5.2025, 18:56:22 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:56:22 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:56:22 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:56:39 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 18:56:39 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 18:56:39 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 18:59:35 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:59:36 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 18:59:45 - INFO - Req was made | /
+18.5.2025, 18:59:45 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:59:45 - DEBUG - Criteria | {}
+18.5.2025, 18:59:45 - INFO - Req was made | /
+18.5.2025, 18:59:45 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 18:59:46 - DEBUG - Criteria | {}
+18.5.2025, 19:00:08 - DEBUG - auth.service - signup with username: baba, fullname: farhan gaga
+18.5.2025, 19:00:08 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:00:08 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:00:47 - DEBUG - auth.service - signup with username: babaa, fullname: farhan gaga
+18.5.2025, 19:00:47 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:00:47 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:01:01 - INFO - Req was made | /
+18.5.2025, 19:01:01 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:01:01 - DEBUG - Criteria | {}
+18.5.2025, 19:01:01 - INFO - Req was made | /
+18.5.2025, 19:01:01 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:01:01 - DEBUG - Criteria | {}
+18.5.2025, 19:01:04 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:01:04 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 19:01:20 - DEBUG - auth.service - signup with username: fafa, fullname: farhan gaga
+18.5.2025, 19:01:20 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:01:20 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:01:32 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:01:33 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:34:36 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:34:37 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:34:42 - INFO - Req was made | /
+18.5.2025, 19:34:42 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:34:42 - DEBUG - Criteria | {}
+18.5.2025, 19:34:43 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:34:43 - DEBUG - Criteria | {}
+18.5.2025, 19:34:43 - INFO - Req was made | /
+18.5.2025, 19:34:52 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+18.5.2025, 19:34:52 - ERROR - authService: signup failed | Error: Missing signup details
+18.5.2025, 19:34:52 - ERROR - Signup failed | Error: Missing signup details
+18.5.2025, 19:39:00 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:39:01 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:39:24 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:39:24 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:40:21 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:40:22 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:40:38 - DEBUG - auth.service - signup with username: baba, fullname: farhan gaga
+18.5.2025, 19:40:38 - ERROR - authService: login failed | Error: data and hash arguments required
+18.5.2025, 19:40:38 - ERROR - Signup failed | Error: data and hash arguments required
+18.5.2025, 19:42:17 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:42:18 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:42:51 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:42:51 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:43:02 - DEBUG - auth.service - signup with username: baba, fullname: farhan gaga
+18.5.2025, 19:43:02 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:43:02 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:47:18 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:47:19 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:47:31 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:47:32 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:48:36 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:48:36 - INFO - Req was made | /
+18.5.2025, 19:48:36 - DEBUG - Criteria | {}
+18.5.2025, 19:48:36 - INFO - Req was made | /
+18.5.2025, 19:48:36 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 19:48:36 - DEBUG - Criteria | {}
+18.5.2025, 19:48:47 - DEBUG - auth.service - signup with username: fasa, fullname: oded oded
+18.5.2025, 19:48:47 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:48:47 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:49:50 - DEBUG - auth.service - signup with username: fasa, fullname: oded oded
+18.5.2025, 19:49:50 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:49:50 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:53:10 - DEBUG - auth.service - signup with username: fasa, fullname: oded oded
+18.5.2025, 19:53:10 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:53:10 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:55:04 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:55:05 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:55:42 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:55:43 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 19:55:50 - DEBUG - auth.service - signup with username: fasa, fullname: oded oded
+18.5.2025, 19:55:51 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:55:51 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 19:55:59 - DEBUG - auth.service - signup with username: fasa, fullname: oded oded
+18.5.2025, 19:55:59 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 19:55:59 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:10:17 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:10:17 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:10:22 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 20:10:22 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:10:32 - DEBUG - auth.service - signup with username: baba, fullname: farhan gaga
+18.5.2025, 20:10:32 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:10:32 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:11:19 - INFO - Req was made | /
+18.5.2025, 20:11:19 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:11:19 - DEBUG - Criteria | {}
+18.5.2025, 20:11:19 - INFO - Req was made | /
+18.5.2025, 20:11:19 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:11:19 - DEBUG - Criteria | {}
+18.5.2025, 20:15:26 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:15:26 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:16:04 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:16:04 - DEBUG - Criteria | {}
+18.5.2025, 20:16:04 - INFO - Req was made | /
+18.5.2025, 20:16:04 - INFO - Req was made | /
+18.5.2025, 20:16:04 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:16:04 - DEBUG - Criteria | {}
+18.5.2025, 20:16:14 - DEBUG - auth.service - signup with username: baba, fullname: farhan g
+18.5.2025, 20:16:14 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:16:14 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:20:40 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:20:41 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:20:53 - DEBUG - auth.service - signup with username: baba, fullname: farhan g
+18.5.2025, 20:20:53 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:20:53 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:21:37 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:21:53 - DEBUG - auth.service - signup with username: babas, fullname: farhan gaga
+18.5.2025, 20:21:53 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:21:53 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:30:14 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:30:15 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:30:43 - DEBUG - auth.service - signup with username: babaf, fullname: farhan g
+18.5.2025, 20:30:43 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:30:43 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:33:42 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:33:42 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:33:57 - DEBUG - auth.service - signup with username: babag, fullname: farhan g
+18.5.2025, 20:33:57 - ERROR - authService: login failed | ReferenceError: Cannot access 'user' before initialization
+18.5.2025, 20:33:57 - ERROR - Signup failed | ReferenceError: Cannot access 'user' before initialization
+18.5.2025, 20:34:32 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:34:33 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:34:41 - INFO - Req was made | /
+18.5.2025, 20:34:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:34:41 - DEBUG - Criteria | {}
+18.5.2025, 20:34:41 - INFO - Req was made | /
+18.5.2025, 20:34:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 20:34:41 - DEBUG - Criteria | {}
+18.5.2025, 20:34:45 - DEBUG - auth.service - signup with username: babag, fullname: farhan g
+18.5.2025, 20:34:45 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:34:45 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:36:22 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:36:22 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:36:29 - DEBUG - auth.service - signup with username: babag, fullname: farhan g
+18.5.2025, 20:36:29 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 20:36:29 - ERROR - Signup failed | Error: Invalid username or password
+18.5.2025, 20:52:39 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:52:40 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:52:44 - DEBUG - auth.service - signup with username: babag, fullname: farhan g
+18.5.2025, 20:53:05 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:53:05 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:53:11 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 20:53:25 - DEBUG - auth.service - signup with username: babaj, fullname: farhan g
+18.5.2025, 20:59:14 - DEBUG - auth.service - signup with username: babaj, fullname: farhan g
+18.5.2025, 20:59:20 - DEBUG - auth.service - signup with username: babaj, fullname: farhan g
+18.5.2025, 21:09:57 - INFO - Server listening on port http://127.0.0.1:3030/
+18.5.2025, 21:10:05 - INFO - Req was made | /
+18.5.2025, 21:10:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:10:05 - DEBUG - Criteria | {}
+18.5.2025, 21:10:05 - INFO - Req was made | /
+18.5.2025, 21:10:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:10:05 - DEBUG - Criteria | {}
+18.5.2025, 21:10:21 - DEBUG - auth.service - signup with username: fasa, fullname: farhan gaga
+18.5.2025, 21:16:50 - INFO - Req was made | /
+18.5.2025, 21:16:50 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:16:50 - DEBUG - Criteria | {}
+18.5.2025, 21:16:50 - INFO - Req was made | /
+18.5.2025, 21:16:50 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:16:50 - DEBUG - Criteria | {}
+18.5.2025, 21:17:05 - WARN - farhan gagaattempted to perform admin action
+18.5.2025, 21:17:08 - ERROR - authService: login failed | Error: Invalid username or password
+18.5.2025, 21:17:08 - ERROR - Login failed | Error: Invalid username or password
+18.5.2025, 21:17:42 - DEBUG - auth.service - signup with username: nasreen, fullname: farhan gaga
+18.5.2025, 21:18:22 - WARN - farhan gagaattempted to perform admin action
+18.5.2025, 21:19:12 - DEBUG - auth.service - signup with username: nasreen, fullname: farhan gaga
+18.5.2025, 21:19:14 - DEBUG - auth.service - signup with username: nasreen, fullname: farhan gaga
+18.5.2025, 21:19:19 - WARN - farhan gagaattempted to perform admin action
+18.5.2025, 21:19:56 - WARN - farhan gagaattempted to perform admin action
+18.5.2025, 21:21:34 - INFO - Req was made | /
+18.5.2025, 21:21:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:21:34 - DEBUG - Criteria | {}
+18.5.2025, 21:21:34 - INFO - Req was made | /
+18.5.2025, 21:21:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+18.5.2025, 21:21:34 - DEBUG - Criteria | {}
+18.5.2025, 21:21:47 - DEBUG - auth.service - signup with username: muki, fullname: farhan g
+18.5.2025, 21:22:26 - WARN - farhan gattempted to perform admin action
+18.5.2025, 21:26:01 - DEBUG - auth.service - signup with username: muki, fullname: farhan g
+18.5.2025, 21:27:09 - DEBUG - auth.service - signup with username: muki, fullname: farhan g
+18.5.2025, 21:57:28 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 11:05:26 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 11:05:44 - INFO - Req was made | /
+19.5.2025, 11:05:44 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:05:44 - DEBUG - Criteria | {}
+19.5.2025, 11:05:44 - INFO - Req was made | /
+19.5.2025, 11:05:44 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:05:44 - DEBUG - Criteria | {}
+19.5.2025, 11:05:47 - INFO - Req was made | /
+19.5.2025, 11:05:47 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:05:47 - DEBUG - Criteria | {}
+19.5.2025, 11:05:47 - INFO - Req was made | /
+19.5.2025, 11:05:47 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:05:47 - DEBUG - Criteria | {}
+19.5.2025, 11:05:56 - WARN - farhan gattempted to perform admin action
+19.5.2025, 11:06:00 - WARN - farhan gattempted to perform admin action
+19.5.2025, 11:06:06 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:06:06 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 11:06:11 - INFO - Req was made | /
+19.5.2025, 11:06:11 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:06:11 - DEBUG - Criteria | {}
+19.5.2025, 11:06:11 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:06:11 - INFO - Req was made | /
+19.5.2025, 11:06:11 - DEBUG - Criteria | {}
+19.5.2025, 11:06:16 - WARN - farhan gattempted to perform admin action
+19.5.2025, 11:06:36 - DEBUG - auth.service - signup with username: muki, fullname: farhan gg
+19.5.2025, 11:06:36 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:06:36 - ERROR - Signup failed | Error: Invalid username or password
+19.5.2025, 11:06:39 - DEBUG - auth.service - signup with username: muki, fullname: farhan gg
+19.5.2025, 11:06:39 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:06:39 - ERROR - Signup failed | Error: Invalid username or password
+19.5.2025, 11:06:44 - DEBUG - auth.service - signup with username: mukii, fullname: farhan gg
+19.5.2025, 11:06:49 - WARN - farhan ggattempted to perform admin action
+19.5.2025, 11:07:17 - WARN - farhan ggattempted to perform admin action
+19.5.2025, 11:09:05 - INFO - Req was made | /
+19.5.2025, 11:09:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:09:05 - DEBUG - Criteria | {}
+19.5.2025, 11:09:05 - INFO - Req was made | /
+19.5.2025, 11:09:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:09:05 - DEBUG - Criteria | {}
+19.5.2025, 11:09:10 - WARN - farhan ggattempted to perform admin action
+19.5.2025, 11:09:41 - WARN - farhan ggattempted to perform admin action
+19.5.2025, 11:10:05 - INFO - Req was made | /
+19.5.2025, 11:10:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:10:05 - DEBUG - Criteria | {}
+19.5.2025, 11:10:05 - INFO - Req was made | /
+19.5.2025, 11:10:05 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:10:05 - DEBUG - Criteria | {}
+19.5.2025, 11:10:20 - INFO - Req was made | /
+19.5.2025, 11:10:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"name","sortDir":"1"}}
+19.5.2025, 11:10:20 - DEBUG - Criteria | {}
+19.5.2025, 11:10:23 - INFO - Req was made | /
+19.5.2025, 11:10:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"price","sortDir":"1"}}
+19.5.2025, 11:10:23 - DEBUG - Criteria | {}
+19.5.2025, 11:11:20 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:11:20 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 11:11:34 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:11:34 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 11:11:41 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:11:41 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 11:11:59 - DEBUG - auth.service - signup with username: farhann, fullname: farhan ganay
+19.5.2025, 11:12:09 - WARN - farhan ganayattempted to perform admin action
+19.5.2025, 11:12:13 - INFO - Req was made | /
+19.5.2025, 11:12:13 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"price","sortDir":"1"}}
+19.5.2025, 11:12:13 - DEBUG - Criteria | {}
+19.5.2025, 11:12:13 - INFO - Req was made | /
+19.5.2025, 11:12:13 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"price","sortDir":"1"}}
+19.5.2025, 11:12:13 - DEBUG - Criteria | {}
+19.5.2025, 11:15:57 - DEBUG - auth.service - signup with username: farhann, fullname: farhan G
+19.5.2025, 11:15:58 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:15:58 - ERROR - Signup failed | Error: Invalid username or password
+19.5.2025, 11:17:09 - WARN - farhan ganayattempted to perform admin action
+19.5.2025, 11:18:17 - INFO - Req was made | /
+19.5.2025, 11:18:17 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"price","sortDir":"1"}}
+19.5.2025, 11:18:17 - DEBUG - Criteria | {}
+19.5.2025, 11:18:17 - INFO - Req was made | /
+19.5.2025, 11:18:17 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"price","sortDir":"1"}}
+19.5.2025, 11:18:17 - DEBUG - Criteria | {}
+19.5.2025, 11:18:25 - INFO - Req was made | /
+19.5.2025, 11:18:25 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null}
+19.5.2025, 11:18:25 - DEBUG - Criteria | {}
+19.5.2025, 11:54:22 - INFO - Req was made | /
+19.5.2025, 11:54:22 - DEBUG - Criteria | {}
+19.5.2025, 11:54:22 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:54:22 - INFO - Req was made | /
+19.5.2025, 11:54:22 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:54:22 - DEBUG - Criteria | {}
+19.5.2025, 11:56:00 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 11:56:00 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 11:56:20 - INFO - Req was made | /
+19.5.2025, 11:56:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":["Box game"],"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:56:20 - DEBUG - Criteria | {"labels":{"$all":["Box game"]}}
+19.5.2025, 11:56:22 - INFO - Req was made | /
+19.5.2025, 11:56:22 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:56:22 - DEBUG - Criteria | {}
+19.5.2025, 11:57:06 - DEBUG - auth.service - signup with username: admin, fullname: Mister Toy
+19.5.2025, 11:57:32 - WARN - Mister Toyattempted to perform admin action
+19.5.2025, 11:57:49 - WARN - Mister Toyattempted to perform admin action
+19.5.2025, 11:57:53 - INFO - Req was made | /
+19.5.2025, 11:57:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:57:53 - DEBUG - Criteria | {}
+19.5.2025, 11:57:53 - INFO - Req was made | /
+19.5.2025, 11:57:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:57:53 - DEBUG - Criteria | {}
+19.5.2025, 11:58:43 - WARN - Mister Toyattempted to perform admin action
+19.5.2025, 11:58:45 - WARN - Mister Toyattempted to perform admin action
+19.5.2025, 11:58:56 - WARN - Mister Toyattempted to perform admin action
+19.5.2025, 11:59:32 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 11:59:37 - INFO - Req was made | /
+19.5.2025, 11:59:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:59:37 - DEBUG - Criteria | {}
+19.5.2025, 11:59:37 - INFO - Req was made | /
+19.5.2025, 11:59:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 11:59:37 - DEBUG - Criteria | {}
+19.5.2025, 11:59:43 - WARN - farhan gattempted to perform admin action
+19.5.2025, 12:00:36 - DEBUG - auth.service - signup with username: admin, fullname: oded oded
+19.5.2025, 12:00:36 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 12:00:36 - ERROR - Signup failed | Error: Invalid username or password
+19.5.2025, 12:00:53 - INFO - Req was made | /
+19.5.2025, 12:00:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:00:53 - DEBUG - Criteria | {}
+19.5.2025, 12:00:53 - INFO - Req was made | /
+19.5.2025, 12:00:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:00:53 - DEBUG - Criteria | {}
+19.5.2025, 12:18:05 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:18:44 - INFO - Req was made | /
+19.5.2025, 12:18:44 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:18:44 - DEBUG - Criteria | {}
+19.5.2025, 12:18:44 - INFO - Req was made | /
+19.5.2025, 12:18:44 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:18:44 - DEBUG - Criteria | {}
+19.5.2025, 12:18:59 - INFO - Req was made | /
+19.5.2025, 12:18:59 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:18:59 - DEBUG - Criteria | {}
+19.5.2025, 12:18:59 - INFO - Req was made | /
+19.5.2025, 12:18:59 - DEBUG - Criteria | {}
+19.5.2025, 12:18:59 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:19:39 - DEBUG - auth.service - signup with username: user, fullname: farhan gaga
+19.5.2025, 12:19:59 - WARN - farhan gagaattempted to perform admin action
+19.5.2025, 12:20:27 - INFO - Req was made | /
+19.5.2025, 12:20:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:20:27 - DEBUG - Criteria | {}
+19.5.2025, 12:20:27 - INFO - Req was made | /
+19.5.2025, 12:20:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:20:27 - DEBUG - Criteria | {}
+19.5.2025, 12:22:07 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:22:08 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:22:22 - WARN - farhan gagaattempted to perform admin action
+19.5.2025, 12:22:47 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:22:48 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:23:30 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:23:30 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:23:53 - INFO - Req was made | /
+19.5.2025, 12:23:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:23:53 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - DEBUG - Criteria | {}
+19.5.2025, 12:23:53 - INFO - Req was made | /
+19.5.2025, 12:23:53 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:23:53 - DEBUG - Criteria | {}
+19.5.2025, 12:23:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:23:53 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - INFO - Req was made | /
+19.5.2025, 12:24:01 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null}
+19.5.2025, 12:24:01 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - DEBUG - Criteria | {}
+19.5.2025, 12:24:01 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - INFO - Req was made | /
+19.5.2025, 12:24:01 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null}
+19.5.2025, 12:24:01 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:01 - DEBUG - Criteria | {}
+19.5.2025, 12:24:01 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:24:02 - INFO - Req was made | /
+19.5.2025, 12:24:02 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - DEBUG - Criteria | {}
+19.5.2025, 12:24:02 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - INFO - Req was made | /
+19.5.2025, 12:24:02 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:24:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - DEBUG - Criteria | {}
+19.5.2025, 12:24:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:02 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:23 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:23 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:23 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:24:22 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:25:35 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:25:44 - INFO - Req was made | /
+19.5.2025, 12:25:44 - DEBUG - Criteria | {}
+19.5.2025, 12:25:44 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:25:45 - INFO - Req was made | /
+19.5.2025, 12:25:45 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:25:45 - DEBUG - Criteria | {}
+19.5.2025, 12:26:01 - INFO - Req was made | /
+19.5.2025, 12:26:01 - DEBUG - Trying to get toys with filterBy | {"txt":"u","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:01 - DEBUG - Criteria | {"name":{"$regex":"u","$options":"i"}}
+19.5.2025, 12:26:01 - DEBUG - Trying to get toys with filterBy | {"txt":"us","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:01 - INFO - Req was made | /
+19.5.2025, 12:26:01 - DEBUG - Criteria | {"name":{"$regex":"us","$options":"i"}}
+19.5.2025, 12:26:01 - INFO - Req was made | /
+19.5.2025, 12:26:01 - DEBUG - Trying to get toys with filterBy | {"txt":"use","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:01 - DEBUG - Criteria | {"name":{"$regex":"use","$options":"i"}}
+19.5.2025, 12:26:02 - INFO - Req was made | /
+19.5.2025, 12:26:02 - DEBUG - Trying to get toys with filterBy | {"txt":"user","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:02 - DEBUG - Criteria | {"name":{"$regex":"user","$options":"i"}}
+19.5.2025, 12:26:03 - INFO - Req was made | /
+19.5.2025, 12:26:03 - DEBUG - Trying to get toys with filterBy | {"txt":"use","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:03 - DEBUG - Criteria | {"name":{"$regex":"use","$options":"i"}}
+19.5.2025, 12:26:03 - INFO - Req was made | /
+19.5.2025, 12:26:03 - DEBUG - Trying to get toys with filterBy | {"txt":"us","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:03 - DEBUG - Criteria | {"name":{"$regex":"us","$options":"i"}}
+19.5.2025, 12:26:04 - DEBUG - Trying to get toys with filterBy | {"txt":"u","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:04 - INFO - Req was made | /
+19.5.2025, 12:26:04 - DEBUG - Criteria | {"name":{"$regex":"u","$options":"i"}}
+19.5.2025, 12:26:04 - INFO - Req was made | /
+19.5.2025, 12:26:04 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:04 - DEBUG - Criteria | {}
+19.5.2025, 12:26:11 - INFO - Req was made | /
+19.5.2025, 12:26:11 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:11 - DEBUG - Criteria | {}
+19.5.2025, 12:26:11 - INFO - Req was made | /
+19.5.2025, 12:26:11 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:11 - DEBUG - Criteria | {}
+19.5.2025, 12:26:31 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:31 - INFO - Req was made | /
+19.5.2025, 12:26:31 - DEBUG - Criteria | {}
+19.5.2025, 12:26:31 - INFO - Req was made | /
+19.5.2025, 12:26:31 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:26:31 - DEBUG - Criteria | {}
+19.5.2025, 12:28:20 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:28:21 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:28:30 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:28:31 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:28:50 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:29:04 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:29:09 - INFO - Req was made | /
+19.5.2025, 12:29:09 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:29:09 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - DEBUG - Criteria | {}
+19.5.2025, 12:29:09 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - INFO - Req was made | /
+19.5.2025, 12:29:09 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:29:09 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - DEBUG - Criteria | {}
+19.5.2025, 12:29:09 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:09 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:47 - DEBUG - auth.service - signup with username: haha, fullname: farhan ganay
+19.5.2025, 12:29:47 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:47 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:47 - ERROR - userService: cannot add user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:47 - ERROR - Signup failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:52 - DEBUG - auth.service - signup with username: haha, fullname: farhan ganay
+19.5.2025, 12:29:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:52 - ERROR - userService: cannot add user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:52 - ERROR - Signup failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:29:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:12 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:12 - ERROR - userService: cannot find user user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:12 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:12 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:12 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:55 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:55 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:55 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:55 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:30:55 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:00 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:31:01 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:31:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:02 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:02 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:02 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - INFO - Req was made | /
+19.5.2025, 12:31:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:31:07 - DEBUG - Criteria | {}
+19.5.2025, 12:31:07 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - INFO - Req was made | /
+19.5.2025, 12:31:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:31:07 - DEBUG - Criteria | {}
+19.5.2025, 12:31:07 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:07 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:09 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:09 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:09 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:09 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:09 - ERROR - userService: cannot find user baba | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:16 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:16 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:16 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:16 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:16 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:47 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:31:48 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:31:49 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:49 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:49 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:49 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:31:49 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:32:10 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:32:10 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:33:54 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:34:03 - INFO - Req was made | /
+19.5.2025, 12:34:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:34:03 - DEBUG - Criteria | {}
+19.5.2025, 12:34:03 - INFO - Req was made | /
+19.5.2025, 12:34:03 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:34:03 - DEBUG - Criteria | {}
+19.5.2025, 12:34:30 - DEBUG - auth.service - signup with username: muki, fullname: muki ga
+19.5.2025, 12:34:30 - ERROR - Signup failed | ReferenceError: user is not defined
+19.5.2025, 12:35:12 - DEBUG - auth.service - signup with username: usser, fullname: farhan g
+19.5.2025, 12:35:12 - ERROR - Signup failed | ReferenceError: user is not defined
+19.5.2025, 12:35:17 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:35:17 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:35:19 - DEBUG - auth.service - signup with username: usser, fullname: farhan g
+19.5.2025, 12:36:50 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:37:23 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:38:18 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:39:03 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:39:36 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:39:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:39:41 - INFO - Req was made | /
+19.5.2025, 12:39:41 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - DEBUG - Criteria | {}
+19.5.2025, 12:39:41 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - INFO - Req was made | /
+19.5.2025, 12:39:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:39:41 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - DEBUG - Criteria | {}
+19.5.2025, 12:39:41 - ERROR - toyService: cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:41 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:52 - ERROR - userService: cannot find user user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:52 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:52 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:55 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:55 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:55 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:55 - ERROR - userService: cannot find user user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:39:55 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:06 - DEBUG - auth.service - signup with username: user, fullname: farhan gaga
+19.5.2025, 12:40:06 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:06 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:06 - ERROR - Signup failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:06 - ERROR - userService: cannot add user | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:18 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:18 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:18 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:20 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:20 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:20 - ERROR - userService: cannot find user admin | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:20 - ERROR - authService: login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:40:20 - ERROR - Login failed | TypeError: Cannot read properties of undefined (reading 'startsWith')
+19.5.2025, 12:41:29 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:41:37 - DEBUG - Criteria | {}
+19.5.2025, 12:41:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:41:37 - INFO - Req was made | /
+19.5.2025, 12:41:37 - INFO - Req was made | /
+19.5.2025, 12:41:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:41:37 - DEBUG - Criteria | {}
+19.5.2025, 12:41:49 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:41:49 - INFO - Req was made | /
+19.5.2025, 12:41:49 - DEBUG - Criteria | {}
+19.5.2025, 12:41:49 - INFO - Req was made | /
+19.5.2025, 12:41:49 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:41:49 - DEBUG - Criteria | {}
+19.5.2025, 12:42:00 - DEBUG - auth.service - signup with username: baba, fullname: farhan g
+19.5.2025, 12:42:07 - DEBUG - auth.service - signup with username: baba, fullname: farhan gaaa
+19.5.2025, 12:44:05 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 12:44:05 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 12:44:07 - INFO - Req was made | /
+19.5.2025, 12:44:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:44:07 - DEBUG - Criteria | {}
+19.5.2025, 12:44:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 12:44:07 - INFO - Req was made | /
+19.5.2025, 12:44:07 - DEBUG - Criteria | {}
+19.5.2025, 12:47:44 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 12:47:48 - INFO - Server listening on port http://127.0.0.1:3030/

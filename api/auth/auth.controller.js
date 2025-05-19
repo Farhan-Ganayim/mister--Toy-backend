@@ -24,9 +24,10 @@ export async function login(req, res) {
 export async function signup(req, res) {
     try {
         const { username, password, fullname } = req.body
-        const user = await authService.signup(username, password, fullname)
-        const loginToken = authService.getLoginToken(user)
+        await authService.signup(username, password, fullname)
+        const user = await authService.login(username, password)
 
+        const loginToken = authService.getLoginToken(user)
         res.cookie('loginToken', loginToken)
         res.json(user)
 

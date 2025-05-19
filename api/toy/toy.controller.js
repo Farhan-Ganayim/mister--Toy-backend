@@ -20,12 +20,10 @@ async function getToys(req, res) {
         loggerService.debug('Trying to get toys with filterBy', filterBy)
         const toys = await toyService.query(filterBy)
         res.send(toys)
-
     }
     catch (err) {
         loggerService.error('Failed to get toys', err)
         res.status(500).send('Failed to get toys')
-
     }
 }
 
@@ -64,8 +62,6 @@ async function addToy(req, res) {
 
 async function updateToy(req, res) {
     const toy = req.body
-    // console.log('Toy id ',toy,_id)
-    // console.log('Params',req.params)
     try {
         const updatedToy = await toyService.update(toy)
         res.send(updatedToy)
