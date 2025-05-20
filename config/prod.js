@@ -1,5 +1,11 @@
+// export default {
+//     dbURL: 'mongodb+srv://fganayim:aabbcc@cluster0.1iqjxwb.mongodb.net/',
+//     dbName: 'toy_db',
+// }
+import dotenv from 'dotenv'
+dotenv.config()
+
 export default {
-    // dbURL: process.env.MONGODB_URL || 'mongodb://127.0.0.1:27017',
-    dbURL: process.env.MONGODB_URL,
-    dbName: 'toy_db',
+    dbURL: process.env.ATLAS_URL,
+    dbName: process.env.ATLAS_DBNAME
 }

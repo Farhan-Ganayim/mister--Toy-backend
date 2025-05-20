@@ -1927,3 +1927,248 @@
 19.5.2025, 12:44:07 - DEBUG - Criteria | {}
 19.5.2025, 12:47:44 - INFO - Server listening on port http://127.0.0.1:3030/
 19.5.2025, 12:47:48 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:04:53 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:05:19 - INFO - Req was made | /
+19.5.2025, 15:05:19 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:05:19 - DEBUG - Criteria | {}
+19.5.2025, 15:05:21 - INFO - Req was made | /
+19.5.2025, 15:05:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:05:21 - DEBUG - Criteria | {}
+19.5.2025, 15:06:16 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:06:21 - INFO - Req was made | /
+19.5.2025, 15:06:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:06:21 - DEBUG - Criteria | {}
+19.5.2025, 15:06:21 - INFO - Req was made | /
+19.5.2025, 15:06:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:06:21 - DEBUG - Criteria | {}
+19.5.2025, 15:06:33 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:06:38 - INFO - Req was made | /
+19.5.2025, 15:06:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:06:38 - DEBUG - Criteria | {}
+19.5.2025, 15:06:39 - INFO - Req was made | /
+19.5.2025, 15:06:39 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:06:39 - DEBUG - Criteria | {}
+19.5.2025, 15:07:00 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:07:15 - DEBUG - Criteria | {}
+19.5.2025, 15:07:15 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:07:15 - INFO - Req was made | /
+19.5.2025, 15:07:15 - INFO - Req was made | /
+19.5.2025, 15:07:15 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:07:15 - DEBUG - Criteria | {}
+19.5.2025, 15:07:30 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:11:10 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:12:41 - INFO - Req was made | /
+19.5.2025, 15:12:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:12:41 - DEBUG - Criteria | {}
+19.5.2025, 15:12:42 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:12:42 - DEBUG - Criteria | {}
+19.5.2025, 15:12:42 - INFO - Req was made | /
+19.5.2025, 15:13:07 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 15:13:07 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 15:13:19 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:13:25 - INFO - Req was made | /
+19.5.2025, 15:13:25 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:13:25 - DEBUG - Criteria | {}
+19.5.2025, 15:13:25 - INFO - Req was made | /
+19.5.2025, 15:13:25 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:13:25 - DEBUG - Criteria | {}
+19.5.2025, 15:23:41 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:25:05 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:25:19 - INFO - Req was made | /
+19.5.2025, 15:25:19 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null}
+19.5.2025, 15:25:19 - DEBUG - Criteria | {}
+19.5.2025, 15:26:38 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:26:51 - INFO - Req was made | /
+19.5.2025, 15:26:51 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:26:51 - DEBUG - Criteria | {}
+19.5.2025, 15:26:51 - INFO - Req was made | /
+19.5.2025, 15:26:51 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:26:51 - DEBUG - Criteria | {}
+19.5.2025, 15:27:17 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 15:27:17 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 15:27:19 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 15:27:19 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 15:27:24 - DEBUG - auth.service - signup with username: user, fullname: ssss fvff
+19.5.2025, 15:27:24 - ERROR - Signup failed | Error: Invalid username or password
+19.5.2025, 15:27:24 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 15:28:11 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:29:30 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:29:41 - INFO - Req was made | /
+19.5.2025, 15:29:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:29:41 - DEBUG - Criteria | {}
+19.5.2025, 15:29:41 - INFO - Req was made | /
+19.5.2025, 15:29:41 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:29:41 - DEBUG - Criteria | {}
+19.5.2025, 15:41:03 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:41:12 - INFO - Req was made | /
+19.5.2025, 15:41:12 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:41:12 - DEBUG - Criteria | {}
+19.5.2025, 15:41:14 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:41:14 - INFO - Req was made | /
+19.5.2025, 15:41:14 - DEBUG - Criteria | {}
+19.5.2025, 15:41:44 - ERROR - authService: login failed | Error: Invalid username or password
+19.5.2025, 15:41:44 - ERROR - Login failed | Error: Invalid username or password
+19.5.2025, 15:42:05 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:42:15 - INFO - Req was made | /
+19.5.2025, 15:42:15 - DEBUG - Criteria | {}
+19.5.2025, 15:42:15 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:42:15 - INFO - Req was made | /
+19.5.2025, 15:42:15 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:42:15 - DEBUG - Criteria | {}
+19.5.2025, 15:44:53 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:46:58 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:47:36 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:47:36 - INFO - Req was made | /
+19.5.2025, 15:47:36 - DEBUG - Criteria | {}
+19.5.2025, 15:47:37 - INFO - Req was made | /
+19.5.2025, 15:47:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:47:37 - DEBUG - Criteria | {}
+19.5.2025, 15:50:27 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:50:38 - INFO - Req was made | /
+19.5.2025, 15:50:38 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:50:38 - DEBUG - Criteria | {}
+19.5.2025, 15:50:39 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:50:39 - INFO - Req was made | /
+19.5.2025, 15:50:39 - DEBUG - Criteria | {}
+19.5.2025, 15:51:02 - INFO - Req was made | /
+19.5.2025, 15:51:02 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:51:02 - DEBUG - Criteria | {}
+19.5.2025, 15:51:02 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:51:02 - DEBUG - Criteria | {}
+19.5.2025, 15:51:02 - INFO - Req was made | /
+19.5.2025, 15:51:23 - INFO - Req was made | /
+19.5.2025, 15:51:23 - DEBUG - Criteria | {}
+19.5.2025, 15:51:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:51:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:51:23 - INFO - Req was made | /
+19.5.2025, 15:51:23 - DEBUG - Criteria | {}
+19.5.2025, 15:52:11 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:52:20 - INFO - Req was made | /
+19.5.2025, 15:52:20 - DEBUG - Criteria | {}
+19.5.2025, 15:52:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:52:20 - INFO - Req was made | /
+19.5.2025, 15:52:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:52:20 - DEBUG - Criteria | {}
+19.5.2025, 15:52:45 - INFO - Server listening on port http://127.0.0.1:3030/
+19.5.2025, 15:53:11 - INFO - Req was made | /
+19.5.2025, 15:53:11 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:53:11 - DEBUG - Criteria | {}
+19.5.2025, 15:53:12 - INFO - Req was made | /
+19.5.2025, 15:53:12 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+19.5.2025, 15:53:12 - DEBUG - Criteria | {}
+20.5.2025, 16:34:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:34:27 - INFO - Req was made | /
+20.5.2025, 16:34:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:34:27 - DEBUG - Criteria | {}
+20.5.2025, 16:34:27 - INFO - Req was made | /
+20.5.2025, 16:34:27 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:34:27 - DEBUG - Criteria | {}
+20.5.2025, 16:34:50 - INFO - Req was made | /
+20.5.2025, 16:34:50 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:34:50 - DEBUG - Criteria | {}
+20.5.2025, 16:34:50 - INFO - Req was made | /
+20.5.2025, 16:34:50 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:34:50 - DEBUG - Criteria | {}
+20.5.2025, 16:37:24 - INFO - Req was made | /
+20.5.2025, 16:37:24 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":["Art"],"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:37:24 - DEBUG - Criteria | {"labels":{"$all":["Art"]}}
+20.5.2025, 16:37:26 - INFO - Req was made | /
+20.5.2025, 16:37:26 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:37:26 - DEBUG - Criteria | {}
+20.5.2025, 16:39:33 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:40:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:40:20 - INFO - Req was made | /
+20.5.2025, 16:40:20 - DEBUG - Criteria | {}
+20.5.2025, 16:40:21 - INFO - Req was made | /
+20.5.2025, 16:40:21 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:40:21 - DEBUG - Criteria | {}
+20.5.2025, 16:42:23 - INFO - Req was made | /
+20.5.2025, 16:42:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:42:23 - DEBUG - Criteria | {}
+20.5.2025, 16:42:23 - INFO - Req was made | /
+20.5.2025, 16:42:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:42:23 - DEBUG - Criteria | {}
+20.5.2025, 16:47:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:48:02 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:48:09 - INFO - Req was made | /
+20.5.2025, 16:48:09 - DEBUG - Criteria | {}
+20.5.2025, 16:48:09 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:48:10 - INFO - Req was made | /
+20.5.2025, 16:48:10 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:48:10 - DEBUG - Criteria | {}
+20.5.2025, 16:48:30 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:48:40 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:48:40 - INFO - Req was made | /
+20.5.2025, 16:48:40 - DEBUG - Criteria | {}
+20.5.2025, 16:48:40 - INFO - Req was made | /
+20.5.2025, 16:48:40 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:48:40 - DEBUG - Criteria | {}
+20.5.2025, 16:48:57 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:49:06 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:49:06 - INFO - Req was made | /
+20.5.2025, 16:49:06 - DEBUG - Criteria | {}
+20.5.2025, 16:49:06 - INFO - Req was made | /
+20.5.2025, 16:49:06 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:49:06 - DEBUG - Criteria | {}
+20.5.2025, 16:49:26 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:50:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 16:50:23 - INFO - Req was made | /
+20.5.2025, 16:50:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:50:23 - DEBUG - Criteria | {}
+20.5.2025, 16:50:23 - INFO - Req was made | /
+20.5.2025, 16:50:23 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 16:50:23 - DEBUG - Criteria | {}
+20.5.2025, 17:49:22 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:49:32 - INFO - Req was made | /
+20.5.2025, 17:49:32 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:49:32 - DEBUG - Criteria | {}
+20.5.2025, 17:49:32 - INFO - Req was made | /
+20.5.2025, 17:49:32 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:49:32 - DEBUG - Criteria | {}
+20.5.2025, 17:49:35 - INFO - Req was made | /
+20.5.2025, 17:49:35 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:49:35 - DEBUG - Criteria | {}
+20.5.2025, 17:49:35 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:49:35 - INFO - Req was made | /
+20.5.2025, 17:49:35 - DEBUG - Criteria | {}
+20.5.2025, 17:50:08 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:50:33 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:50:39 - INFO - Req was made | /
+20.5.2025, 17:50:39 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:50:39 - DEBUG - Criteria | {}
+20.5.2025, 17:50:40 - INFO - Req was made | /
+20.5.2025, 17:50:40 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:50:40 - DEBUG - Criteria | {}
+20.5.2025, 17:53:00 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:53:06 - INFO - Req was made | /
+20.5.2025, 17:53:06 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:06 - DEBUG - Criteria | {}
+20.5.2025, 17:53:07 - INFO - Req was made | /
+20.5.2025, 17:53:07 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:07 - DEBUG - Criteria | {}
+20.5.2025, 17:53:10 - INFO - Req was made | /
+20.5.2025, 17:53:10 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:10 - DEBUG - Criteria | {}
+20.5.2025, 17:53:10 - INFO - Req was made | /
+20.5.2025, 17:53:10 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:10 - DEBUG - Criteria | {}
+20.5.2025, 17:53:37 - INFO - Req was made | /
+20.5.2025, 17:53:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:37 - DEBUG - Criteria | {}
+20.5.2025, 17:53:37 - INFO - Req was made | /
+20.5.2025, 17:53:37 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:53:37 - DEBUG - Criteria | {}
+20.5.2025, 17:54:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:54:19 - INFO - Req was made | /
+20.5.2025, 17:54:19 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:54:19 - DEBUG - Criteria | {}
+20.5.2025, 17:54:20 - INFO - Req was made | /
+20.5.2025, 17:54:20 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:54:20 - DEBUG - Criteria | {}
+20.5.2025, 17:55:26 - INFO - Server listening on port http://127.0.0.1:3030/
+20.5.2025, 17:55:33 - INFO - Req was made | /
+20.5.2025, 17:55:33 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:55:33 - DEBUG - Criteria | {}
+20.5.2025, 17:55:34 - INFO - Req was made | /
+20.5.2025, 17:55:34 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
+20.5.2025, 17:55:34 - DEBUG - Criteria | {}

@@ -27,7 +27,7 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
 }
-app.use(express.static('public'))
+// app.use(express.static('public'))
 
 import { toyRoutes } from './api/toy/toy.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
