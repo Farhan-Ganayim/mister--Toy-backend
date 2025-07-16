@@ -59,5 +59,9 @@ npm install
 ### Run locally:
 npm run dev
 
+⚠️ Note:
+This command runs the backend locally.
+To view the app, you also need to run the frontend project (found in the mister-toy-frontend repo) using the same command: npm run dev
+
 ### Run in production (online server setup):
 npm run prod
