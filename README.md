@@ -14,12 +14,22 @@ you can log in:
 - Password: `aaa`
 
 Or you can **sign up** with any username and password to create a new user with limited access.
-
+## ▶️ How to Run the App
 
 ## 🔗 Live App
 
 👉 [https://mistertoy-backend-2r38.onrender.com](https://mistertoy-backend-2r38.onrender.com)
 
+
+### 🟢 Recommended: Run in Production Mode
+This runs the backend API and serves the frontend from the same server.
+
+```bash
+npm run prod
+```
+
+Then open the app at:
+👉 http://localhost:3030
 
 ## 📦 Tech Stack
 
@@ -63,5 +73,4 @@ npm run dev
 This command runs the backend locally.
 To view the app, you also need to run the frontend project (found in the mister-toy-frontend repo) using the same command: npm run dev
 
-### Run in production (online server setup):
-npm run prod
+
