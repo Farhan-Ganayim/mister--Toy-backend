@@ -1,59 +1,63 @@
-Mister Toy 🧸
-A toy marketplace web application built with React, Node.js, and MongoDB as part of my full-stack development course at Coding Academy.
+# Mister Toy 🧸
 
-🔐 Authentication – Try the App!
-To test the full functionality of the app (adding, editing, deleting toys),
+A toy marketplace web application built with **React**, **Node.js**, and **MongoDB**  
+as part of my full-stack development course at Coding Academy.
+
+## 🔐 Authentication – Try the App!
+
+To test the full functionality of the app (adding, editing, deleting toys),  
 you can log in:
 
-Admin credentials (for full access):
+**Admin credentials** (for full access):
 
-Username: admin
-Password: aaa
+- Username: `admin`  
+- Password: `aaa`
 
-Or you can sign up with any username and password to create a new user with limited access.
+Or you can **sign up** with any username and password to create a new user with limited access.
 
-🔗 Live App
-👉 https://mistertoy-backend-2r38.onrender.com
 
-📦 Tech Stack
-Frontend:
+## 🔗 Live App
 
-React
-React Router
-Axios
+👉 [https://mistertoy-backend-2r38.onrender.com](https://mistertoy-backend-2r38.onrender.com)
 
-Backend:
 
-Node.js
-Express
-MongoDB
-RESTful API
-Middleware
-Logger
-MongoDB Filtering
-ObjectId handling
+## 📦 Tech Stack
 
-🚀 Features:
+### Frontend:
 
-Full CRUD for toys
+- React  
+- React Router  
+- Axios  
 
-Authentication and Authorization
+### Backend:
 
-Admin-restricted actions (add/edit/delete toys)
+- Node.js  
+- Express  
+- MongoDB  
+- RESTful API  
+- Middleware  
+- Logger  
+- MongoDB Filtering  
+- ObjectId handling  
 
-Route splitting and modular structure
 
-Filtering, Sorting, and Searching toys
+## 🚀 Features
 
-Session-based login
+- Full CRUD for toys  
+- Authentication and Authorization  
+- Admin-restricted actions (add/edit/delete toys)  
+- Route splitting and modular structure  
+- Filtering, Sorting, and Searching toys  
+- Session-based login  
 
-🛠️ Getting Started
 
-Install dependencies:
+## 🛠️ Getting Started
+
+### Install dependencies:
 npm install
 
-Run locally:
+### Run locally:
 npm run dev
 
-Run in production (online server setup):
+### Run in production (online server setup):
 npm run prod

@@ -2518,3 +2518,4 @@
 16.7.2025, 11:14:10 - INFO - Req was made | /
 16.7.2025, 11:14:10 - DEBUG - Trying to get toys with filterBy | {"txt":"","labels":null,"sortBy":{"type":"","sortDir":"1"}}
 16.7.2025, 11:14:10 - DEBUG - Criteria | {}
+16.7.2025, 11:46:13 - INFO - Server listening on port http://127.0.0.1:3030/
